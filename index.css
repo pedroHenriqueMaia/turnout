@@ -1,0 +1,36 @@
+html{
+  height: 100vh;
+}
+body {
+  background-color: #191919;;
+}
+
+h3 {
+  color: aliceblue;  
+}
+
+.sign {
+  height: 80vh;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.card {
+  width: 35rem !important;
+  height: 18rem;
+  border-radius: 10px;
+  background-color: #9d9d9d;
+}
+
+#app {
+  font-family: 'Avenir', Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  margin-top: 60px;
+}
+
+.link .link:hover, .link:visited, .link:active {
+  color: black;
+}
